@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="273d2186-64fa-4ccd-a9f2-6406f7841063" name="Changes" comment="268. Missing Number">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ITsyuryupa/FindAllNumbersDisappearedInArray.java" afterDir="false" />
-    </list>
+    <list default="true" id="273d2186-64fa-4ccd-a9f2-6406f7841063" name="Changes" comment="121. Best Time to Buy and Sell Stock" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679337721908</updated>
-      <workItem from="1679337723588" duration="1239000" />
+      <workItem from="1679337723588" duration="1560000" />
     </task>
     <task id="LOCAL-00001" summary="solved 217. Contains Duplicate">
       <created>1679338516112</created>
@@ -64,7 +62,35 @@
       <option name="project" value="LOCAL" />
       <updated>1679338816925</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="448. Find All Numbers Disappeared in an Array">
+      <created>1679339021573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679339021573</updated>
+    </task>
+    <task id="LOCAL-00004" summary="136. Single Number">
+      <created>1679339197864</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679339197864</updated>
+    </task>
+    <task id="LOCAL-00005" summary="70. Climbing Stairs">
+      <created>1679339212603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679339212603</updated>
+    </task>
+    <task id="LOCAL-00006" summary="121. Best Time to Buy and Sell Stock">
+      <created>1679339276542</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679339276542</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +110,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solved 217. Contains Duplicate" />
     <MESSAGE value="268. Missing Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="268. Missing Number" />
+    <MESSAGE value="448. Find All Numbers Disappeared in an Array" />
+    <MESSAGE value="136. Single Number" />
+    <MESSAGE value="70. Climbing Stairs" />
+    <MESSAGE value="121. Best Time to Buy and Sell Stock" />
+    <option name="LAST_COMMIT_MESSAGE" value="121. Best Time to Buy and Sell Stock" />
   </component>
 </project>
