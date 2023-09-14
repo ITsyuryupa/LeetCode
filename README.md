@@ -15,3 +15,4 @@ Leetcode problem's solutions
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./src/main/java/ITsyuryupa/ClimbingStairs.java)|    Easy    |
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./src/main/java/ITsyuryupa/BestTimeBuySellStock.java)|    Easy    |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./src/main/java/ITsyuryupa/RangeSumQueryImmutable.java)|    Easy    |
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./src/main/java/ITsyuryupa/MaximumSubarray.java)|    Medium    |
