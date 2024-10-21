@@ -16,3 +16,5 @@ Leetcode problem's solutions
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./src/main/java/ITsyuryupa/BestTimeBuySellStock.java)|    Easy    |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./src/main/java/ITsyuryupa/RangeSumQueryImmutable.java)|    Easy    |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./src/main/java/ITsyuryupa/MaximumSubarray.java)|    Medium    |
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./src/main/java/ITsyuryupa/CountingBits.java)|    Easy    |
+
