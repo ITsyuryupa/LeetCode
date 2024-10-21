@@ -43,6 +43,12 @@ public class ContainsDuplicate {
     }
 
     public static Boolean containsDuplicateArrSortStreamAPI(int[] nums) {
+        Arrays.sort(nums);
+
+        return Arrays.stream(nums).anyMatch(i -> nums[i] == nums[i + 1]);
+    }
+
+    public static Boolean containsDuplicateArrSortStreamAPIDistinct(int[] nums) {
         return Arrays.stream(nums)
                 .distinct()
                 .count() != nums.length;
