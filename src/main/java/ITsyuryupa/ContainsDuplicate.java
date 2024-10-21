@@ -31,6 +31,12 @@ public class ContainsDuplicate {
         return false;
     }
 
+    public static Boolean containsDuplicateHashSetStreamAPI(int[] nums) {
+        HashSet<Integer> numHS = new HashSet<>();
+
+        return IntStream.of(nums).anyMatch(num -> numHS.add(num));
+    }
+
     public static Boolean containsDuplicateArrSort(int[] nums) {
         Arrays.sort(nums);
 
