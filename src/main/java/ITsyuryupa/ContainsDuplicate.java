@@ -8,11 +8,11 @@ import java.util.stream.IntStream;
 public class ContainsDuplicate {
     public static Boolean containsDuplicateHashMap(int[] nums) {
         Hashtable<Integer, Integer> numH = new Hashtable<>();
-        for (int i = 0; i < nums.length; i++) {
-            if (numH.containsKey(nums[i])) {
+        for (int num : nums) {
+            if (numH.containsKey(num)) {
                 return true;
             } else {
-                numH.put(nums[i], 1);
+                numH.put(num, 1);
             }
         }
         return false;
@@ -34,7 +34,7 @@ public class ContainsDuplicate {
     public static Boolean containsDuplicateHashSetStreamAPI(int[] nums) {
         HashSet<Integer> numHS = new HashSet<>();
 
-        return IntStream.of(nums).anyMatch(num -> numHS.add(num));
+        return IntStream.of(nums).anyMatch(numHS::add);
     }
 
     public static Boolean containsDuplicateArrSort(int[] nums) {
